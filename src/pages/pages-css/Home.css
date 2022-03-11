@@ -1,0 +1,33 @@
+.genrestext{
+    border : 1px solid rgb(238, 178, 178);
+    padding : 10px;
+    font-weight: 400;
+    font-size: 15px;
+    width: 300px;
+    cursor: pointer;
+}
+.genrestext:hover{
+    border : 1px solid rgb(238, 178, 178);
+    padding : 10px;
+    font-weight: 400;
+    font-size: 15px;
+    width: 300px;
+    color:blue;
+    cursor: pointer;
+}
+.genrestext:first-letter{
+    text-transform: uppercase;
+}
+.block01{
+    text-align: right;
+}
+.btn1{
+    height: 35px;
+    margin-top: 5px;
+}
+.block12{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    border-radius:10px;
+}
